@@ -13,19 +13,26 @@
       
       header, footer{ background-color: lightblue;
         padding: 1em;
-        
+        clear: left;
         text-align: center;
       }
       
       
       nav { float: left;
         padding: 1em;
-        margin-right: 75px;
+        margin-right: 100px;
+      }
+      
+      nav lu {
+        list-style-type:none;
+        padding: 0;
+        font-size: 20px;
+        line-heigth: 1.8;
       }
       
       article { padding: 1em;
-        border-left: 1px solid lightblue;
-        margin-left: 75px;
+        border-left: 2px solid lightblue;
+        margin-left: 200px;
       }
       
       
@@ -38,10 +45,12 @@
     </header>
     
     <nav>
-      <a>Sobre Mim</a><br/>
-      <a>Habilidades</a><br/>
-      <a>Blog</a><br/>
-      <a>Portifólio</a><br/>
+      <lu>
+        <li><a href="#">Sobre Mim</a></li><br/>
+        <li><a href="#">Habilidades</a></li><br/>
+        <li><a href="#">Blog</a></li><br/>
+        <li><a href="#">Portifólio</a></li><br/>
+      </lu>
     </nav>
     
     <article>
