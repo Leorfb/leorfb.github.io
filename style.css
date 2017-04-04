@@ -27,6 +27,7 @@ nav { float: left;
   padding: 1em;
   margin-right: 100px;
   border: 2px solid black;
+  width: 200px;
 }
       
 nav lu {
