@@ -26,8 +26,8 @@ img {
 nav { float: left;
   padding: 1em;
   margin-right: 100px;
-  border: 2px solid black;
-  width: 200px;
+  border-right: 2px solid black;
+  width: 150px;
 }
       
 nav lu {
