@@ -65,3 +65,23 @@ th, td{ background-color: white;}
 .info {
 font-size: 18px;
 }
+
+.imagem {
+  position: relative;
+  display: inline-block;
+}
+
+.conteudo-imagem {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.imagem:hover .conteudo-imagem{
+ display: block; 
+}
+
+.descricao{
+  padding: 15px;
+  text-align: center;
+}
