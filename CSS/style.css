@@ -80,7 +80,7 @@ font-size: 18px;
   position: absolute;
   z-index: 1;
   border: 1px solid darkblue;
-  box-shadow: 0px 10px 5px 0px black;
+  box-shadow: 0px 10px 5px 0px darkgray;
 }
 
 .imagem:hover .conteudo-imagem{
