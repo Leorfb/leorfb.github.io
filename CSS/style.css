@@ -85,6 +85,8 @@ font-size: 18px;
 
 .imagem:hover .conteudo-imagem{
  display: block; 
+ padding:10px;
+ 
 }
 
 .descricao{
