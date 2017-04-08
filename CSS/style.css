@@ -7,16 +7,14 @@ h2 { font-family: sans-serif;
   color: firebrick;
 }
 
-body { border: 3px solid firebrick;
+body { border: 3px solid darkblue;
 }
 
-header, footer{ background-color: yellow;
+header, footer{ background-color: darkblue;
   padding: 1em;
   clear: left;
   text-align: center;
-  color: firebrick;
-  border-top: 2px solid firebrick;
-  border-bottom: 2px solid firebrick;
+  color: white;
 }
       
 img { 
@@ -50,14 +48,14 @@ nav ul a:hover { background-color: orange;
 }
       
 article { padding: 1em;
-  border-left: 2px solid firebrick;
+  border-left: 2px solid darkblue;
   margin-left: 200px;
 }
       
 table, th, td{
   border: 2px solid black;
   line-height: 1.49;
-  background-color: yellow;
+  background-color: darkblue;
 }
       
 th, td{ background-color: white;}
