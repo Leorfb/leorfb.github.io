@@ -60,7 +60,6 @@ nav ul a:hover { background-color: orange;
       
 article { padding: 1em;
   border-left: 2px solid darkblue;
-  margin-left: 200px;
 }
       
 table, th, td{
