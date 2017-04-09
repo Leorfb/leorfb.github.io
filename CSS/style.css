@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body { background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-6-full.jpg");} 
 
 p { font-family: serif;
@@ -85,7 +90,7 @@ font-size: 18px;
 
 .imagem:hover .conteudo-imagem{
  display: block; 
- padding:10px;
+ 
  
 }
 
@@ -94,4 +99,5 @@ font-size: 18px;
   text-align: center;
   background-color: darkblue;
   color: white;
+  
 }
